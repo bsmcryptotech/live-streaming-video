@@ -1,9 +1,0 @@
-Hallo %%mail_username%%,
-
-Ihr Konto wurde genehmigt!
-
-Sie koennen Ihr Konto benutzen: %%mail_loginurl%%
-
-Danke,
-%%mail_sitename%% Team
-%%mail_url%%
