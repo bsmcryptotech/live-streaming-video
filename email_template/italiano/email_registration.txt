@@ -1,0 +1,9 @@
+Ora sei un membro di %%mail_sitename%%.
+ 
+Ecco i tuoi dati di accesso. Si prega di tenerli in un luogo sicuro:
+
+Username: %%mail_username%%
+
+Grazie,
+Il Team di %%mail_sitename%%
+%%mail_url%%

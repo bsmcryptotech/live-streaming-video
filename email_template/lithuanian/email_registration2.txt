@@ -1,0 +1,11 @@
+Hi, %%mail_username%%!
+
+Thanks for registering on %%mail_sitename%%!
+Your account has been created and needs to be confirmed. 
+To confirm your account, please visit the following link:
+
+%%mail_activation_link%% 
+
+Thanks,
+%%mail_sitename%% Team
+%%mail_url%%

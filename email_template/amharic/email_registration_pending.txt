@@ -1,0 +1,9 @@
+Hi, %%mail_username%%!
+
+Thanks for registering on %%mail_sitename%%!
+Your account has been created and is now awaiting approval by an administrator.
+You'll receive another email as soon as the account has been approved.
+
+Thanks,
+%%mail_sitename%% Team
+%%mail_url%%
