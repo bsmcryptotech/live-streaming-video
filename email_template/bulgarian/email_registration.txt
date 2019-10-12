@@ -1,0 +1,8 @@
+Hi, %%mail_username%%!
+
+Thanks for registering on %%mail_sitename%%!
+Your account has been created and is now active.
+
+Thanks,
+%%mail_sitename%% Team
+%%mail_url%% 
